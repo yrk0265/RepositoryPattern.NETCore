@@ -1,0 +1,15 @@
+C:\RepositoryPattern-CRUD\DataAccessEF\bin\Debug\net6.0\DataAccessEF.deps.json
+C:\RepositoryPattern-CRUD\DataAccessEF\bin\Debug\net6.0\DataAccessEF.dll
+C:\RepositoryPattern-CRUD\DataAccessEF\bin\Debug\net6.0\ref\DataAccessEF.dll
+C:\RepositoryPattern-CRUD\DataAccessEF\bin\Debug\net6.0\DataAccessEF.pdb
+C:\RepositoryPattern-CRUD\DataAccessEF\bin\Debug\net6.0\Domain.dll
+C:\RepositoryPattern-CRUD\DataAccessEF\bin\Debug\net6.0\Domain.pdb
+C:\RepositoryPattern-CRUD\DataAccessEF\obj\Debug\net6.0\DataAccessEF.csproj.AssemblyReference.cache
+C:\RepositoryPattern-CRUD\DataAccessEF\obj\Debug\net6.0\DataAccessEF.GeneratedMSBuildEditorConfig.editorconfig
+C:\RepositoryPattern-CRUD\DataAccessEF\obj\Debug\net6.0\DataAccessEF.AssemblyInfoInputs.cache
+C:\RepositoryPattern-CRUD\DataAccessEF\obj\Debug\net6.0\DataAccessEF.AssemblyInfo.cs
+C:\RepositoryPattern-CRUD\DataAccessEF\obj\Debug\net6.0\DataAccessEF.csproj.CoreCompileInputs.cache
+C:\RepositoryPattern-CRUD\DataAccessEF\obj\Debug\net6.0\DataAccessEF.csproj.CopyComplete
+C:\RepositoryPattern-CRUD\DataAccessEF\obj\Debug\net6.0\DataAccessEF.dll
+C:\RepositoryPattern-CRUD\DataAccessEF\obj\Debug\net6.0\ref\DataAccessEF.dll
+C:\RepositoryPattern-CRUD\DataAccessEF\obj\Debug\net6.0\DataAccessEF.pdb

@@ -1,0 +1,12 @@
+C:\RepositoryPattern-CRUD\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\RepositoryPattern-CRUD\Domain\bin\Debug\net6.0\Domain.dll
+C:\RepositoryPattern-CRUD\Domain\bin\Debug\net6.0\ref\Domain.dll
+C:\RepositoryPattern-CRUD\Domain\bin\Debug\net6.0\Domain.pdb
+C:\RepositoryPattern-CRUD\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\RepositoryPattern-CRUD\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\RepositoryPattern-CRUD\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\RepositoryPattern-CRUD\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\RepositoryPattern-CRUD\Domain\obj\Debug\net6.0\Domain.dll
+C:\RepositoryPattern-CRUD\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\RepositoryPattern-CRUD\Domain\obj\Debug\net6.0\Domain.pdb
+C:\RepositoryPattern-CRUD\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
